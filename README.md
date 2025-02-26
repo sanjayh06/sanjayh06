@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjay H</h1>
 <h3 align="center">"Turning Ideas into Code | Passionate About Front-End Development"</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjayh06" alt="sanjayh06" /></a> </p>
-
 - 🔭 I’m currently working on **the latest trends in front-end development.**
 
 - 🌱 I’m currently learning **advanced React, animations, and performance optimization.**
