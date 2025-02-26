@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjay H</h1>
 <h3 align="center">"Turning Ideas into Code | Passionate About Front-End Development"</h3>
 
+
+
 - 🔭 I’m currently working on **the latest trends in front-end development.**
 
 - 🌱 I’m currently learning **advanced React, animations, and performance optimization.**
