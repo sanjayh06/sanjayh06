@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay H</h1>
+<h1 align="center">Hi <img src="./gifs/wave.gif" width="25px">, I'm Sanjay H</h1>
 <h3 align="center">"Turning Ideas into Code | Passionate About Front-End Development"</h3>
 
 <div align="center">
