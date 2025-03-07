@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanjayvj666@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://github.com/sanjayh06/sanjayh06/blob/main/gifs/SanjayH_Resume.pdf)
 
 - ⚡ Fun fact **I tell myself "one last game"… and then it's 3 AM!**
 
