@@ -25,7 +25,7 @@
 <a href="https://twitter.com/sanjay_vj7" target="blank"><img align="center" src="./gifs/discord.gif" alt="sanjay_vj7" height="40" width="40" /></a>
 <a href="https://wa.link/3oknj0" target="blank"><img align="center" src="./gifs/whatsapp.gif" alt="sanjay_vj7" height="40" width="40" /></a>
 <a href="https://www.instagram.com/sanjay.vijay.587" target="blank"><img align="center" src="./gifs/insta.gif" alt="sanjay_vj7" height="40" width="40" /></a>
-<img align="center" src="./gifs/user2.gif" alt="sanjay_vj7" height="120" width="120" /></a>
+<img align="center" src="./gifs/user2.gif" alt="sanjayh06" height="120" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
